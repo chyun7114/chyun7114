@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## Records 👍
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chyun7114)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **chyun7114/chyun7114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
