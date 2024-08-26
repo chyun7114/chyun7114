@@ -8,14 +8,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chyun7114&show_icons=true&theme=radical)
 
 ## Contact!
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:chyun7114@kyonggi.ac.kr">
-        ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-    </a>
-    <a href="https://www.instagram.com/_noxluna">
-        ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-    </a>
-</div>
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+
 
 ## What can I Do???
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
