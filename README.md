@@ -8,7 +8,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chyun7114&show_icons=true&theme=radical)
 
 ## Contact!
-<div style="display:flex; flex-direction:column; align-items:flex-start;">\
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
   <a href="mailto:chyun7114@kyonggi.ac.kr">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
