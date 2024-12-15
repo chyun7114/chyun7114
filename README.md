@@ -93,15 +93,21 @@ My journey is driven by **a dedication to continuous growth and learning**.
 
 ## 📫Contact
 <div>
-  <a href="mailto:chyun7114@kyonggi.ac.kr">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://chyun7114.notion.site/Resume-d297b06e876443d89bbffd8409ec2625?pvs=74">
-    <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/_noxluna">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
-  </a>
+  <div>
+    <a href="mailto:chyun7114@kyonggi.ac.kr">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+  </div>
+  <div>
+    <a href="https://chyun7114.notion.site/Resume-d297b06e876443d89bbffd8409ec2625?pvs=74">
+      <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+    </a>
+  </div>
+  <div>
+    <a href="https://www.instagram.com/_noxluna">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+    </a>
+  </div>
 </div>
 
 ## Records 👍
