@@ -50,7 +50,7 @@ My journey is driven by **a dedication to continuous growth and learning**.
 
 ## 📃 Experience
 - **K-Software Empowerment BootCamp (Dec 2023 ~ Nov 2024)**
-- **Development and Study Community in KGU - KGU (SEP 2024~)**
+- **Development and Study Community in KGU - InQ (SEP 2024~)**
 ---
 ## Project
 - **3D RPG Game based on Little Prince**
