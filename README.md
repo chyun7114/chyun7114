@@ -56,25 +56,40 @@ My journey is driven by **a dedication to continuous growth and learning**.
 - **3D RPG Game based on Little Prince**
   - **Period** : Mar 2024 ~ JUN 2024
   - **Details**: 3D RPG game for child using Unity 3D engine
+  - **Go to Project** : <a href="https://github.com/chyun7114/BasicCapstoneDesign">BasicCapstoneDesign</a>
 - **Smartphone Defect Detection Service with YOLOv8 - Smart Factory**
   - **Period**: Jun 2024 ~ Aug 2024
   - **Details**: Built a B2B service to detect defects using AI object detection models.
+  - **Go to Project** : <a href="https://github.com/KEB-Tech-Titans">KEB-Tech-Titans</a>
 
 - **Seoul Public Bike Demand Predict Service**
   - **Period** : Nov 2024
   - **Details**: Make AI Prediction model for seoul public bike and build API for statistics page
+  - **Go to Project** : <a href="https://github.com/OpenswTeamProject">6Bee</a>
 ---
 ## Competition
 - **AI Hackathon**
   - **Period**: Oct 2024
   - **Host**: Korean Association of Computer Education
   - **Details**: Visualized AI model data and built chatbot server.
+  - **Go to Project** : <a href="https://github.com/2024AIHackerton">2024-AI-Hackerthon</a>
 - **2024 AI Hellothon**
   - **Period**: Nov 2024
   - **Host**: Elice x Sparcs 
   - **Details**: Build a B2B services for patient care services for caregivers
+  - **Go to Project** : <a href="https://github.com/2024-Elice-AI-Hellothon-07-goodCare">2024-Elice-AI-Hellothon-07-goodCare</a>
 ---
 ## 🏆 Awards
+- 🥇**Grand Prize** : 3D RPG game for child using Unity 3D engine
+  - **Kyonggi University Basic Capstone Design Competition, 2024**
+- 🥇 **Grand Prize** : Smartphone Defect Detection Service with YOLOv8 - Smart Factory
+  - **K-softvation Showcase, 2024**
+- 🏅 **advance to the finals** : Build a B2B services for patient care services for caregivers
+  - **Elice x Sparcs 2024 AI Hellothon**
+- 🥉 **Bronze Prize** : 3D RPG game for child using Unity 3D engine
+  - **Korean Society of Information Technology, 2024**
+- 🎖️ **Honorable Mention** – Capstone Design & AI Hackathon
+  - **AI Hackerthon, 2024**
 
 ## 📫Contact
 <div>
