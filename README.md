@@ -108,6 +108,11 @@ My journey is driven by **a dedication to continuous growth and learning**.
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
     </a>
   </div>
+  <div>
+    <a href="https://dev-lumi-blog.vercel.app/">
+      <img src="https://img.shields.io/badge/dev_lumi-000000?style=for-the-badge&logo=vercel&logoColor=white">
+    </a>
+  </div>
 </div>
 
 ## Records 👍
