@@ -117,3 +117,4 @@ My journey is driven by **a dedication to continuous growth and learning**.
 
 ## Records 👍
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chyun7114&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chyun7114)](https://solved.ac/chyun7114/)
