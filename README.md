@@ -10,7 +10,7 @@ I'm specialized that **Spring Framework** is mainly used for server development,
 My journey is driven by **a dedication to continuous growth and learning**.
 
 안녕하세요, **컴퓨터공학을 전공중인 윤창현**입니다. **백엔드 개발자**를 꿈꾸고 있습니다. **스프링 프레임워크**를 주로 사용하고, **CI/CD 및 클라우드 관리**가 가능합니다.
-**성장을 위해서 무엇이든지 배울 준비**가 되어있습니다. **동아리 및 프로젝트 활동 참여**를 희망합니다.
+**성장을 위해서 무엇이든지 배울 준비**가 되어있습니다.
 
 ## 🛠️ Tech Stack
 <!-- 사용 가능 언어 -->
