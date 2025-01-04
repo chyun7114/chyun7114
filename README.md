@@ -1,5 +1,8 @@
+## Records 👍
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chyun7114&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chyun7114)](https://solved.ac/chyun7114/)
 
-<!--제목 들어오면 좋을득, 간단한 소개-->
+<!--제목 들어오면 좋을듯, 간단한 소개-->
 
 <!-- 제목과 간단한 소개 -->
 ## 👋 Hello! This is ChangHyun
@@ -51,7 +54,7 @@ My journey is driven by **a dedication to continuous growth and learning**.
 ## 📃 Experience
 - **K-Software Empowerment BootCamp (Dec 2023 ~ Nov 2024)**
 - **Development and Study Community in KGU - InQ (SEP 2024~)**
----
+
 ## Project
 - **3D RPG Game based on Little Prince**
   - **Period** : Mar 2024 ~ JUN 2024
@@ -66,7 +69,7 @@ My journey is driven by **a dedication to continuous growth and learning**.
   - **Period** : Nov 2024
   - **Details**: Make AI Prediction model for seoul public bike and build API for statistics page
   - **Go to Project** : <a href="https://github.com/OpenswTeamProject">6Bee</a>
----
+
 ## Competition
 - **AI Hackathon**
   - **Period**: Oct 2024
@@ -78,7 +81,7 @@ My journey is driven by **a dedication to continuous growth and learning**.
   - **Host**: Elice x Sparcs 
   - **Details**: Build a B2B services for patient care services for caregivers
   - **Go to Project** : <a href="https://github.com/2024-Elice-AI-Hellothon-07-goodCare">2024-Elice-AI-Hellothon-07-goodCare</a>
----
+
 ## 🏆 Awards
 - 🥇**Grand Prize** : 3D RPG game for child using Unity 3D engine
   - **Kyonggi University Basic Capstone Design Competition, 2024**
@@ -114,7 +117,3 @@ My journey is driven by **a dedication to continuous growth and learning**.
     </a>
   </div>
 </div>
-
-## Records 👍
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chyun7114&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chyun7114)](https://solved.ac/chyun7114/)
