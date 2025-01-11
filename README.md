@@ -15,42 +15,6 @@ My journey is driven by **a dedication to continuous growth and learning**.
 안녕하세요, **컴퓨터공학을 전공중인 윤창현**입니다. **백엔드 개발자**를 꿈꾸고 있습니다. **스프링 프레임워크**를 주로 사용하고, **CI/CD 및 클라우드 관리**가 가능합니다.
 **성장을 위해서 무엇이든지 배울 준비**가 되어있습니다.
 
-## 🛠️ Tech Stack
-<!-- 사용 가능 언어 -->
-<p><strong>Language</strong></p>
-<div>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-</div>
-<!-- Back-End -->
-<p><strong>Back-End</strong></p>
-<div>
-  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-</div>
-<!-- DataBases -->
-<p><strong>DB</strong></p>
-<div>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white">
-</div>
-<!-- CI/CD -->
-<p><strong>CI/CD</strong></p>
-<div>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
-</div>
-<!-- Front-End -->
-<p><strong>Front-End</strong></p>
-<div>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-</div>
-
 ## 📃 Experience
 - **K-Software Empowerment BootCamp (Dec 2023 ~ Nov 2024)**
 - **Development and Study Community in KGU - InQ (SEP 2024~)**
