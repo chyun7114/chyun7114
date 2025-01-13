@@ -1,25 +1,13 @@
-## Records 👍
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chyun7114&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chyun7114)](https://solved.ac/chyun7114/)
-
-<!--제목 들어오면 좋을듯, 간단한 소개-->
-
 <!-- 제목과 간단한 소개 -->
 ## 👋 Hello! This is ChangHyun
-
-This is ChangHyun, a **passionate and self-improvement** developer.
-I'm interested in **back-end development** and with **some experience in front-end development**. 
-I'm specialized that **Spring Framework** is mainly used for server development, and it is possible to **build an environment through CI/CD and AWS clouds**.
-My journey is driven by **a dedication to continuous growth and learning**.
-
-안녕하세요, **컴퓨터공학을 전공중인 윤창현**입니다. **백엔드 개발자**를 꿈꾸고 있습니다. **스프링 프레임워크**를 주로 사용하고, **CI/CD 및 클라우드 관리**가 가능합니다.
-**성장을 위해서 무엇이든지 배울 준비**가 되어있습니다.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chyun7114&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chyun7114)](https://solved.ac/chyun7114/)
 
 ## 📃 Experience
 - **K-Software Empowerment BootCamp (Dec 2023 ~ Nov 2024)**
 - **Development and Study Community in KGU - InQ (SEP 2024~)**
 
-## Project
+## 📃 Project
 - **3D RPG Game based on Little Prince**
   - **Period** : Mar 2024 ~ JUN 2024
   - **Details**: 3D RPG game for child using Unity 3D engine
@@ -28,13 +16,17 @@ My journey is driven by **a dedication to continuous growth and learning**.
   - **Period**: Jun 2024 ~ Aug 2024
   - **Details**: Built a B2B service to detect defects using AI object detection models.
   - **Go to Project** : <a href="https://github.com/KEB-Tech-Titans">KEB-Tech-Titans</a>
-
 - **Seoul Public Bike Demand Predict Service**
   - **Period** : Nov 2024
   - **Details**: Make AI Prediction model for seoul public bike and build API for statistics page
   - **Go to Project** : <a href="https://github.com/OpenswTeamProject">6Bee</a>
 
-## Competition
+## 🏆 Competition
+- **K-softvation Showcase, 2024**
+  - **Period**: Jun 2024 - Aug 2024
+  - **Host**: 과학기술정보통신부(MSIT), 정보통신기획평가원(IITP)
+  - **Details**: Smartphone Defect Detection Service with YOLOv8 - Smart Factory
+  - **Go to Project** : <a href="https://github.com/KEB-Tech-Titans">KEB-Tech-Titans</a>
 - **AI Hackathon**
   - **Period**: Oct 2024
   - **Host**: Korean Association of Computer Education
@@ -58,7 +50,7 @@ My journey is driven by **a dedication to continuous growth and learning**.
 - 🎖️ **Honorable Mention** – Capstone Design & AI Hackathon
   - **AI Hackerthon, 2024**
 
-## 📫Contact
+## 📫 Contact
 <div>
     <a href="mailto:chyun7114@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
