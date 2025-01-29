@@ -5,7 +5,9 @@
 
 ## 📃 Experience
 - **K-Software Empowerment BootCamp (Dec 2023 ~ Nov 2024)**
-- **Development and Study Community in KGU - InQ (SEP 2024~)**
+- **Development and Study Community in KGU - InQ (Sep 2024~)**
+- **IT Management Society - KUSITMS 31th Backend (Feb 2025 ~ Jun 2025)**
+- **IT Management Society - KUSITMS 31th Management Team (Education Planning Team) (Feb 2025 ~ Jun 2025)**
 
 ## 📃 Project
 - **3D RPG Game based on Little Prince**
