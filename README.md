@@ -4,52 +4,52 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chyun7114)](https://solved.ac/chyun7114/)
 
 ## 📃 Experience
-- **K-Software Empowerment BootCamp (Dec 2023 ~ Nov 2024)**
-- **Development and Study Community in KGU - InQ (Sep 2024~)**
-- **IT Management Society - KUSITMS 31th Backend (Feb 2025 ~ Jun 2025)**
-- **IT Management Society - KUSITMS 31th Management Team (Education Planning Team) (Feb 2025 ~ Jun 2025)**
+- **K-Software Empowerment BootCamp (2023.12 ~ 2024.11)**
+- **경기대학교 교내 개발 및 스터디 동아리 - InQ (2024.09 ~)**
+- **한국 대학생 IT 경영학회 - 큐시즘 31기 백엔드파트 (2025.02 ~ 2025.06)**
+- **한국 대학생 IT 경영학회 - 큐시즘 31기 운영진(교육기획팀원) (2025.01 ~ 2025.06)**
 
 ## 📃 Project
-- **3D RPG Game based on Little Prince**
-  - **Period** : Mar 2024 ~ JUN 2024
-  - **Details**: 3D RPG game for child using Unity 3D engine
+- **어린왕자 줄거리를 활용한 Unity 3D RPG게임 제작**
+  - **Period** : 2024.03 ~ 2024.06
+  - **Details**: 어린이들을 위한 Unity 3D RPG 게임 제작
   - **Go to Project** : <a href="https://github.com/chyun7114/BasicCapstoneDesign">BasicCapstoneDesign</a>
-- **Smartphone Defect Detection Service with YOLOv8 - Smart Factory**
-  - **Period**: Jun 2024 ~ Aug 2024
-  - **Details**: Built a B2B service to detect defects using AI object detection models.
+- **YOLOv8을 활용한 스마트폰 표면 불량 검출 서비스 - 스마트팩토리**
+  - **Period**: 2024.06 ~ 2024.08
+  - **Details**: AI 물체 인식 모델을 활용한 표면 결함 검출 B2B 서비스 제작
   - **Go to Project** : <a href="https://github.com/KEB-Tech-Titans">KEB-Tech-Titans</a>
-- **Seoul Public Bike Demand Predict Service**
+- **서울시 공공 자전거 수요 예측 서비스**
   - **Period** : Nov 2024
-  - **Details**: Make AI Prediction model for seoul public bike and build API for statistics page
+  - **Details**: 공공자전거 수요 예측 모델 제작 및 Open API를 활용한 통계 페이지 제작
   - **Go to Project** : <a href="https://github.com/OpenswTeamProject">6Bee</a>
 
 ## 🏆 Competition
 - **K-softvation Showcase, 2024**
-  - **Period**: Jun 2024 - Aug 2024
+  - **Period**: 2024.06 ~ 2024.08
   - **Host**: 과학기술정보통신부(MSIT), 정보통신기획평가원(IITP)
-  - **Details**: Smartphone Defect Detection Service with YOLOv8 - Smart Factory
+  - **Details**: YOLOv8을 활용한 스마트폰 표면 불량 검출 서비스 - 스마트팩토리
   - **Go to Project** : <a href="https://github.com/KEB-Tech-Titans">KEB-Tech-Titans</a>
 - **AI Hackathon**
-  - **Period**: Oct 2024
-  - **Host**: Korean Association of Computer Education
-  - **Details**: Visualized AI model data and built chatbot server.
+  - **Period**: 2024.10
+  - **Host**: 한국컴퓨터교육연합
+  - **Details**: AI 모델 데이터 시각화 및 챗봇 서버 제작 
   - **Go to Project** : <a href="https://github.com/2024AIHackerton">2024-AI-Hackerthon</a>
 - **2024 AI Hellothon**
-  - **Period**: Nov 2024
+  - **Period**: 2024.11
   - **Host**: Elice x Sparcs 
-  - **Details**: Build a B2B services for patient care services for caregivers
+  - **Details**: 간병인과 보호자를 위한 B2B서비스 제작
   - **Go to Project** : <a href="https://github.com/2024-Elice-AI-Hellothon-07-goodCare">2024-Elice-AI-Hellothon-07-goodCare</a>
 
 ## 🏆 Awards
-- 🥇**Grand Prize** : 3D RPG game for child using Unity 3D engine
-  - **Kyonggi University Basic Capstone Design Competition, 2024**
-- 🥇 **Grand Prize** : Smartphone Defect Detection Service with YOLOv8 - Smart Factory
+- 🥇**대상** : 어린이들을 위한 Unity 3D RPG 게임 제작
+  - **경기대학교 기초 캡스톤 경진대회, 2024**
+- 🥇 **대상** : YOLOv8을 활용한 스마트폰 표면 불량 검출 서비스 - 스마트팩토리
   - **K-softvation Showcase, 2024**
-- 🏅 **advance to the finals** : Build a B2B services for patient care services for caregivers
+- 🏅 **본선 진출** : 간병인과 보호자를 위한 B2B서비스 제작
   - **Elice x Sparcs 2024 AI Hellothon**
-- 🥉 **Bronze Prize** : 3D RPG game for child using Unity 3D engine
-  - **Korean Society of Information Technology, 2024**
-- 🎖️ **Honorable Mention** – Capstone Design & AI Hackathon
+- 🥉 **동상** : 어린이들을 위한 Unity 3D RPG 게임 제작
+  - **한국정보기술학회, 2024**
+- 🎖️ **장려상** – Capstone Design & AI Hackathon
   - **AI Hackerthon, 2024**
 
 ## 📫 Contact
