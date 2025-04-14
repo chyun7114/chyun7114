@@ -1,7 +1,10 @@
 <!-- 제목과 간단한 소개 -->
 ## 👋 Hello! This is ChangHyun
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chyun7114&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chyun7114)](https://solved.ac/chyun7114/)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chyun7114&show_icons=true&theme=radical" height="170" />
+  <img src="https://streak-stats.demolab.com?user=chyun7114&theme=tokyonight&hide_border=true&border_radius=10&locale=ko" height="170" />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chyun7114" height="170" />
+</div>
 
 ## 🧑‍💻 Experience
 - **K-Software Empowerment BootCamp (2023.12 ~ 2024.11)**
