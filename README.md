@@ -18,7 +18,7 @@
 - **Details**: 로그인 유도과정 세부화 및 채용공고 관련 개인화 서비스 제작  
 - **Go to Project**: [GitHub - Team4_Zighang](https://github.com/Team4-Zighang)
 
-### 🎯 **두드림**
+### 🎯 **두드림 - 일하고 싶은 50대 주부를 위한 실행 공유형 구직 플랫폼**
 - **Period**: 2025.04 ~  
 - **Details**: 시니어분들을 위한 맞춤형 직업 추천 및 구인 정보 탐색 서비스  
 - **Go to Project**: [GitHub - TEAM-DoDream_BE](https://github.com/TEAM-DoDream)
