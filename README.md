@@ -18,20 +18,20 @@
 - **Details**: 로그인 유도과정 세부화 및 채용공고 관련 개인화 서비스 제작  
 - **Go to Project**: [GitHub - Team4_Zighang](https://github.com/Team4-Zighang)
 
+### 🎯 **두드림**
+- **Period**: 2025.04 ~  
+- **Details**: 시니어분들을 위한 맞춤형 직업 추천 및 구인 정보 탐색 서비스  
+- **Go to Project**: [GitHub - TEAM-DoDream_BE](https://github.com/TEAM-DoDream)
+
 ### 🧾 **기업프로젝트 with 서울우유 - 지능형 세금계산서 검증 서비스 개발**
 - **Period**: 2025.02 ~ 2025.03  
 - **Details**: OCR 기술을 통한 세금계산서 검증 프로세스 개선 및 Admin Page 개발  
 - **Go to Project**: [GitHub - KUSITMS-31th-Seoul-Milk-team2](https://github.com/KUSITMS-31th-Seoul-Milk-team2)
 
-### 🧠 **어르심: 성향 추론과 AI 융합을 통한 복지 맞춤 시스템**
+### 🧠 **배우다: 성향 추론과 AI 융합을 통한 복지 맞춤 시스템**
 - **Period**: 2025.02 ~ 2025.06  
 - **Details**: 성향 추론과 AI 융합을 통한 맞춤형 복지 프로그램 추천 서비스 개발 (AI, BE Repository 개발)  
 - **Go to Project**: [GitHub - TEAM-HouseOfChoi_BE](https://github.com/KGU-HouseOfChoi)
-
-### 🎯 **두드림**
-- **Period**: 2025.04 ~  
-- **Details**: 시니어분들을 위한 맞춤형 직업 추천 및 구인 정보 탐색 서비스  
-- **Go to Project**: [GitHub - TEAM-DoDream_BE](https://github.com/TEAM-DoDream)
 
 ### 🔍 **YOLOv8을 활용한 스마트폰 표면 불량 검출 서비스 - 스마트팩토리**
 - **Period**: 2024.06 ~ 2024.08  
