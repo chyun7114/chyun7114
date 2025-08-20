@@ -7,21 +7,16 @@
 
 ## 🧑‍💻 Experience
 - **K-Software Empowerment BootCamp (2023.12 ~ 2024.11)**
-- **경기대학교 교내 개발 및 스터디 동아리 - InQ (2024.09 ~)**
-- **한국 대학생 IT 경영학회 - 큐시즘 31기 백엔드파트 (2025.02 ~ 2025.06)**
-- **한국 대학생 IT 경영학회 - 큐시즘 31기 운영진(교육기획팀원) (2025.01 ~ 2025.06)**
+- **경기대학교 교내 개발 및 스터디 동아리 - InQ (2024.09 ~ 2025.06)**
+- **한국 대학생 IT 경영학회 - 큐시즘 31기 교육기획팀 운영진 및 백엔드파트 (2025.01 ~ 2025.06)**
+- **한국 대학생 IT 경영학회 - 큐시즘 32기 경영총괄팀 운영진 및 백엔드파트 (2025.06 ~ 2025.12)**
 
 ## 📃 Project
 
-### 🔍 **YOLOv8을 활용한 스마트폰 표면 불량 검출 서비스 - 스마트팩토리**
-- **Period**: 2024.06 ~ 2024.08  
-- **Details**: AI 물체 인식 모델을 활용한 표면 결함 검출 B2B 서비스 제작  
-- **Go to Project**: [GitHub - KEB-Tech-Titans](https://github.com/KEB-Tech-Titans)
-
-### 🚲 **서울시 공공 자전거 수요 예측 서비스**
-- **Period**: 2024.11  
-- **Details**: 공공자전거 수요 예측 모델 제작 및 Open API를 활용한 통계 페이지 제작  
-- **Go to Project**: [GitHub - 서울시 공공자전거 수요 예측 서비스](https://github.com/OpenswTeamProject)
+### 🧾 **기업프로젝트 with 직행 - 채용공고 개인화 및 로그인 유도 과정 세부화**
+- **Period**: 2025.08   
+- **Details**: 로그인 유도과정 세부화 및 채용공고 관련 개인화 서비스 제작  
+- **Go to Project**: [GitHub - Team4_Zighang](https://github.com/Team4-Zighang)
 
 ### 🧾 **기업프로젝트 with 서울우유 - 지능형 세금계산서 검증 서비스 개발**
 - **Period**: 2025.02 ~ 2025.03  
@@ -37,6 +32,16 @@
 - **Period**: 2025.04 ~  
 - **Details**: 시니어분들을 위한 맞춤형 직업 추천 및 구인 정보 탐색 서비스  
 - **Go to Project**: [GitHub - TEAM-DoDream_BE](https://github.com/TEAM-DoDream)
+
+### 🔍 **YOLOv8을 활용한 스마트폰 표면 불량 검출 서비스 - 스마트팩토리**
+- **Period**: 2024.06 ~ 2024.08  
+- **Details**: AI 물체 인식 모델을 활용한 표면 결함 검출 B2B 서비스 제작  
+- **Go to Project**: [GitHub - KEB-Tech-Titans](https://github.com/KEB-Tech-Titans)
+
+### 🚲 **서울시 공공 자전거 수요 예측 서비스**
+- **Period**: 2024.11  
+- **Details**: 공공자전거 수요 예측 모델 제작 및 Open API를 활용한 통계 페이지 제작  
+- **Go to Project**: [GitHub - 서울시 공공자전거 수요 예측 서비스](https://github.com/OpenswTeamProject)
 
 ## 🏆 Competition
 
@@ -62,15 +67,6 @@
 
 - 🥇 **대상**: YOLOv8을 활용한 스마트폰 표면 불량 검출 서비스  
   ↳ *K-softvation Showcase, 2024*
-
-- 🏅 **본선 진출**: 간병인과 보호자를 위한 B2B 서비스 제작  
-  ↳ *Elice x Sparcs 2024 AI Hellothon*
-
-- 🥉 **동상**: 어린이들을 위한 Unity 3D RPG 게임 제작  
-  ↳ *한국정보기술학회, 2024*
-
-- 🎖️ **장려상**: Capstone Design & AI Hackathon  
-  ↳ *AI Hackerthon, 2024*
 
 ## 📫 Contact
 
