@@ -1,7 +1,7 @@
 <!-- 제목과 간단한 소개 -->
 ## 👋 Hello! This is ChangHyun
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chyun7114&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chyun7114&show_icons=true" height="170" />
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chyun7114" height="170" />
 </div>
 
