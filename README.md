@@ -1,8 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-<!-- 제목과 간단한 소개 -->
-<h1 style="display:center">Hello! This is ChangHyun</h1>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
-
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chyun7114" height="170" />
 
 ## 🧑‍💻 Experience
