@@ -36,7 +36,7 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
   <div align= "center"> 
     <img src="https://github-readme-stats.vercel.app/api??username=chyun7114&show_icons=true&theme=onedark&locale=kr"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chyun7114&layout=compact&theme=dracula&hide=c%23,shaderLab"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chyun7114&layout=compact&theme=dracula&hide=c%23,shaderLab,HLSL"/>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chyun7114" height="170" />
   </div> 
 </div>
