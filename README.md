@@ -1,6 +1,15 @@
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙌 Introduction </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
+안녕하세요.
+
+**문제의 원인을 끝까지 파고들어, 구조적으로 해결하는**
+백엔드 개발자 윤창현입니다.
+
+- 성능 병목과 시스템 문제를 분석하고, 단순한 해결이 아닌 **재발하지 않는 구조로 개선**하는 것을 중요하게 생각합니다.
+- 또한 기술을 구현하는 데 그치지 않고, **사용자 경험과 시스템 영향까지 고려해 협업하고 설명합니다.**
+- 문제를 해결하는 과정에서 얻은 인사이트를, **필요할 때 정리하고 기록하며, 더 나은 방식으로 개선해 나갑니다.**
+    </div> 
 </div>
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Experience </h2>
