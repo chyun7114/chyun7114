@@ -1,4 +1,10 @@
 <div style="text-align: left;"> 
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
+  <div align= "center"> 
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=luminetic" height="170" />
+  </div> 
+</div>
+<div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙌 Introduction </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
 안녕하세요.
@@ -11,14 +17,18 @@
 - 문제를 해결하는 과정에서 얻은 인사이트를, **필요할 때 정리하고 기록하며, 더 나은 방식으로 개선해 나갑니다.**
     </div> 
 </div>
-<div style="text-align: left;"> 
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏢 Work Experience </h2>
+    <ul style="font-weight: 800; font-size: 15px; text-align: left; color: #282d33;">
+        <li>Samsung Life Insurance (2026.07 ~ )</li>
+    </ul> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Experience </h2>
     <ul style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
         <li>K-Software Empowerment BootCamp (2023.12 ~ 2024.11)</li>
         <li>경기대학교 교내 개발 및 스터디 동아리 - InQ (2024.09 ~ 2025.06)</li>
         <li>한국 대학생 IT 경영학회 - 큐시즘 31기 교육기획팀 운영진 및 백엔드파트 (2025.01 ~ 2025.06)</li>
         <li>한국 대학생 IT 경영학회 - 큐시즘 32기 경영총괄팀 운영진 및 백엔드파트 (2025.06 ~ 2025.12)</li>
-        <li>Samsung SW AI Academy For Youth(SSAFY) 15기(2026.01 ~ )</li>
+        <li>Samsung SW AI Academy For Youth(SSAFY) 15기(2026.01 ~ 2026.06)</li>
     </ul> 
 </div>
 <div style="text-align: left;">
@@ -40,13 +50,3 @@
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
     </div>
 </div>
-  
-<div style="text-align: left;"> 
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
-  <div align= "center"> 
-    <img src="https://github-readme-stats.vercel.app/api??username=chyun7114&show_icons=true&theme=onedark&locale=kr"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chyun7114&layout=compact&theme=dracula&hide=c%23,shaderLab,HLSL,Dart"/>
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=luminetic" height="170" />
-  </div> 
-</div>
-    
