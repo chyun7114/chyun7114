@@ -1,52 +1,49 @@
-<div style="text-align: left;"> 
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
-  <div align= "center"> 
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=luminetic" height="170" />
-  </div> 
+<div align="left">
+  <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=chyun7114&utm_content=farm">
+    <img
+      src="https://render.gitanimals.org/farms/chyun7114"
+      width="600"
+      height="300"
+    />
+  </a>
 </div>
-<div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙌 Introduction </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
-안녕하세요.
 
-**문제의 원인을 끝까지 파고들어, 구조적으로 해결하는**
-백엔드 개발자 윤창현입니다.
+## 👋 About Me
 
-- 성능 병목과 시스템 문제를 분석하고, 단순한 해결이 아닌 **재발하지 않는 구조로 개선**하는 것을 중요하게 생각합니다.
-- 또한 기술을 구현하는 데 그치지 않고, **사용자 경험과 시스템 영향까지 고려해 협업하고 설명합니다.**
-- 문제를 해결하는 과정에서 얻은 인사이트를, **필요할 때 정리하고 기록하며, 더 나은 방식으로 개선해 나갑니다.**
-    </div> 
-</div>
-<div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏢 Work Experience </h2>
-    <ul style="font-weight: 800; font-size: 15px; text-align: left; color: #282d33;">
-        <li>Samsung Life Insurance (2026.07 ~ )</li>
-    </ul> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Experience </h2>
-    <ul style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
-        <li>K-Software Empowerment BootCamp (2023.12 ~ 2024.11)</li>
-        <li>경기대학교 교내 개발 및 스터디 동아리 - InQ (2024.09 ~ 2025.06)</li>
-        <li>한국 대학생 IT 경영학회 - 큐시즘 31기 교육기획팀 운영진 및 백엔드파트 (2025.01 ~ 2025.06)</li>
-        <li>한국 대학생 IT 경영학회 - 큐시즘 32기 경영총괄팀 운영진 및 백엔드파트 (2025.06 ~ 2025.12)</li>
-        <li>Samsung SW AI Academy For Youth(SSAFY) 15기(2026.01 ~ 2026.06)</li>
-    </ul> 
-</div>
-<div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div align= "center">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
-        <br/><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-        <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-        <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-        <br/><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
-        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
-        <br/><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-    </div>
-</div>
+안정적인 시스템과 더 나은 사용자 경험을 고민하는 Backend Developer입니다.
+Java와 Spring Boot를 중심으로 성능 최적화, 메시징, 캐시 및 데이터 정합성에 관심이 있습니다.
+한 줄의 코드가 더 많은 사람에게 이로움이 될 수 있도록 개발하고 있습니다.
+
+## 🏢 Work Experience
+
+* **Samsung Life Insurance** — IT Development/Operations
+  `2026.07 ~ Present`
+
+## 🛠 Tech Stack
+
+### Backend
+
+`Java` `Kotlin` `Spring Boot` `Spring Batch` `JPA` `jOOQ` `MyBatis`
+
+### Database & Messaging
+
+`MySQL` `PostgreSQL` `Redis` `RabbitMQ`
+
+### Infrastructure
+
+`Docker` `Nginx` `GitHub Actions` `AWS`
+
+## ⚡ Engineering Highlights
+
+* PostGIS 공간 조회 최적화를 통해 응답 시간을 **342ms에서 20ms로 개선**
+* WebSocket 서버 부하 테스트 및 Scale-out 환경의 처리 성능 검증
+* Redis 캐시와 분산 락을 활용한 조회 성능 및 동시성 개선
+* RabbitMQ Retry/DLQ 및 Outbox Pattern 기반 메시지 처리 구조 설계
+* Testcontainers 테스트 실행 시간을 약 **45% 단축**
+
+## 🌱 Activities
+
+* Samsung SW AI Academy For Youth 15th
+* KUSITMS 31st · 32nd Management Staff & Backend
+* K-Software Empowerment BootCamp
+
